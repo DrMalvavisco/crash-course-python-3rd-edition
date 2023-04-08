@@ -1,0 +1,6 @@
+In python you can make strings
+In python you can use integers
+In python you can store items in lists
+In python you can store key-value pair objects in dictionaries
+In python you can write powerful code
+In python you can have fun
